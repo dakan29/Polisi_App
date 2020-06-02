@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "209532382428",
+    "firebase_url": "https://polisi-app.firebaseio.com",
+    "project_id": "polisi-app",
+    "storage_bucket": "polisi-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209532382428:android:1f560ea3b5060d81805819",
+        "android_client_info": {
+          "package_name": "com.example.polisiapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209532382428-dummctjc3ilsralbqfvsom7fsds731a5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.polisiapp",
+            "certificate_hash": "10e7d66fcbd39e12bb72fa3602d446ba896eb2f9"
+          }
+        },
+        {
+          "client_id": "209532382428-1kqtot63oqn8h5m7ul4udag21ahp15m1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmEBddo9FX0r684LadmmEAV6IIXR_bSVA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "209532382428-1kqtot63oqn8h5m7ul4udag21ahp15m1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

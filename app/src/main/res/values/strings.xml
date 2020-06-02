@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Polisi App</string>
+    <string name="demo_title">Title</string>
+    <string name="Text_for_content">Text for Content</string>
 </resources>
